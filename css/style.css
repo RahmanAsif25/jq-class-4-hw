@@ -1,0 +1,128 @@
+.count{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.counter{
+	color: black;
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: 700;
+	transition: .4s;
+}
+.counter:hover{
+	color: red;
+}
+
+.s_1{
+	min-height: 200px;
+	background-color: gray;
+}
+.s_2{
+	margin-top: 40px;
+	min-height: 200px;
+	background-color: gray;
+}
+.s_3{
+	margin-top: 40px;
+	min-height: 200px;
+	background-color: gray;
+}
+.s_4{
+	margin-top: 40px;
+	min-height: 200px;
+	background-color: gray;
+}
+.s_5{
+	margin-top: 40px;
+	min-height: 200px;
+	background-color: gray;
+}
+.s_6{
+	margin-top: 40px;
+	min-height: 200px;
+	background-color: gray;
+}
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+.box_1{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.box_2{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.box_3{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.box_4{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.box_5{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.box_6{
+	min-height: 200px;
+	background-color: wheat;
+	margin-top: 30px;
+}
+.grid-item{
+	width: 25%;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.flower{
+	background-color: teal;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.bird{
+	background-color: salmon;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.mango{
+	background-color: tomato;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+.car{
+	background-color: yellowgreen;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+.web, .dev, .des, .ui{
+	min-height: 150px;
+}
+.web{
+	background-color: red;
+}
+.dev{
+	background-color: gray;
+}
+.des{
+	background-color: tomato;
+}
+.ui{
+	background-color: yellowgreen;
+}
+.section{
+	width: 100px;
+	min-height: 500px;
+}
+
+
+
+
